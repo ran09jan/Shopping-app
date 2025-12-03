@@ -113,43 +113,13 @@ Shopping app/
 
 ## Product Catalog
 
-The application includes **30 products** across three categories with prices ranging from ₹449 to ₹1299:
+The application includes products across three categories with prices:
 
-### Men's Apparel (10 products)
-- Classic Cotton T-Shirt (₹599)
-- Slim Fit Jeans (₹1199)
-- Casual Button Shirt (₹899)
-- Sport Sneakers (₹1299)
-- Premium Polo Shirt (₹749)
-- Formal Dress Shirt (₹999)
-- Chino Pants (₹899)
-- Leather Loafers (₹1199)
-- Hoodie Sweatshirt (₹899)
-- Denim Jacket (₹1099)
+### Men's Apparel 
 
-### Women's Apparel (10 products)
-- Floral Summer Dress (₹999)
-- High-Waisted Jeans (₹1099)
-- Silk Blouse (₹1249)
-- Cozy Knit Sweater (₹799)
-- A-Line Skirt (₹699)
-- Casual Cotton Top (₹549)
-- Blazer Jacket (₹1199)
-- High Heel Sandals (₹899)
-- Midi Dress (₹849)
-- Leggings (₹499)
+### Women's Apparel 
 
-### Children's Apparel (10 products)
-- Kids Cartoon T-Shirt (₹499)
-- Denim Overalls (₹699)
-- Princess Dress (₹849)
-- Kids Sneakers (₹649)
-- Kids Shorts (₹449)
-- School Uniform Shirt (₹599)
-- Kids Hoodie (₹749)
-- Party Frock (₹899)
-- Kids Sandals (₹549)
-- Kids Polo Shirt (₹649)
+### Children's Apparel
 
 ## Responsive Design
 
@@ -176,7 +146,6 @@ The application uses React hooks for state management:
 ## Currency & Pricing
 
 - **Currency**: Indian Rupees (₹)
-- **Price Range**: ₹449 - ₹1299
 - **Tax**: 18% GST (Goods and Services Tax)
 - **Shipping**: Free on all orders
 
